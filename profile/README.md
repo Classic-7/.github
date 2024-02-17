@@ -8,7 +8,7 @@ Starix is a Windows customisation project ment to bring the 9x design over to ne
 
 We use mostly open source apps such as, RetroBar by [dremin](https://github.com/dremin) and OpenShell by the [Open-Shell team](https://github.com/Open-Shell).
 ### Why use Starix?
-Starix is for people that want to bring back the old design while still remaining functional by using Windows 10 as the base.
+Starix is for people that want to bring back the old design while still remaining functional by using Windows 10 (tiny10 by [NTDEV](https://www.youtube.com/@NTDEV)) as the base.
 
 We are just a small team messing around with Windows and such.
 
