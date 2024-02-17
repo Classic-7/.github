@@ -1,3 +1,4 @@
+![starix-icon](https://github.com/strxproject/.github/assets/135556230/c8491a3e-878d-4d97-970f-85d348fb8507)
 ## Hi there 👋
 Welcome to the Starix Project repository!
 
