@@ -1,4 +1,3 @@
-![txtandlogo](https://github.com/strxproject/.github/assets/135556230/208b914a-baca-4aed-926a-07f3221c1a68)
 ## Hi there 👋
 Welcome to the Starix Project repository!
 
