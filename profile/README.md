@@ -1,4 +1,6 @@
+<p align="center">
 <img src="https://github.com/strxproject/.github/assets/135556230/180b79a3-5e7d-4133-b103-87cb920f008e">
+</p>
 
 ---
 ## What are these mods?
