@@ -1,19 +1,15 @@
-<p align="center">
-<img src="https://github.com/strxproject/.github/assets/135556230/180b79a3-5e7d-4133-b103-87cb920f008e">
-</p>
+## Welcome!
+Welcome to the Starix / Classic 7 GitHub page! We post stuff that we use in our operating systems here such as [Wallpapers](https://github.com/strxproject/Wallpapers).
+### What is Starix / Classic 7?
+> Starix is a Windows 10 mod that tries to look identical to Windows 98. 
 
----
-## What are these mods?
-### Starix
-Starix is a modification of Windows to look like Windows 95 / 98 (mostly 98).
+> Classic 7 is a Windows 10 mod that tries to look identical to Windows 7.
+### Why use Starix / Classic 7?
+If you want the classic look of 9x or Windows 7, you can try out either of our operating systems. You will need to wipe your drive to install it but otherwise we try to get as close as possible to the OS we are trying to look like (e.g, Windows 98)
+### Is Starix / Classic 7 safe?
+We try to use as much community software as we can and use as much open source software as we can to replicate the original look. We can reassure you Starix / Classic 7 is not virus-ridden at all.
 
-### Classic 7
-Classic 7 is a modifcation of windows to look like Windows 7.
+TL;DR: Yes.
+### Is Starix / Classic 7 1:1?
+No. It will probably never be 1:1 as it's too hard to just make it the way to use to be. We try our hardest to make it the closest we can to the original, but we can't assure you it is 1:1.
 
-## Why should I use either mod?
-Starix / Classic 7 are for people who want the old design yet still have a somewhat modern version of Windows. 
-
-We are using tiny10 21H2 as the base of our operating systems and modifying them appropriately to their Windows version lookalike (9x / Windows 7)
-
-## Are there any viruses?
-No. We do not host any viruses in our operating systems. We try to use as much FOSS software as we can in our mods such as Windhawk and Open Shell.
